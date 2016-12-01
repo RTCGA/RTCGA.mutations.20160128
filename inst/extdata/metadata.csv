@@ -1,0 +1,129 @@
+"Title","Description","BiocVersion","SourceUrl","SourceVersion","DataProvided","Maintainer","RDataClass","ResourceName"
+"ACC.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","ACC.mutations.20160128"
+"BLCA.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","BLCA.mutations.20160128"
+"BRCA.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","BRCA.mutations.20160128"
+"CESC.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","CESC.mutations.20160128"
+"CHOL.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","CHOL.mutations.20160128"
+"COADREAD.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","COADREAD.mutations.20160128"
+"DLBC.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","DLBC.mutations.20160128"
+"ESCA.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","ESCA.mutations.20160128"
+"GBMLGG.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","GBMLGG.mutations.20160128"
+"HNSC.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","HNSC.mutations.20160128"
+"KICH.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","KICH.mutations.20160128"
+"KIPAN.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","KIPAN.mutations.20160128"
+"KIRC.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","KIRC.mutations.20160128"
+"KIRP.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","KIRP.mutations.20160128"
+"LAML.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","LAML.mutations.20160128"
+"LIHC.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","LIHC.mutations.20160128"
+"LUAD.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","LUAD.mutations.20160128"
+"LUSC.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","LUSC.mutations.20160128"
+"OV.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","OV.mutations.20160128"
+"PAAD.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","PAAD.mutations.20160128"
+"PCPG.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","PCPG.mutations.20160128"
+"PRAD.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","PRAD.mutations.20160128"
+"SARC.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","SARC.mutations.20160128"
+"SKCM.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","SKCM.mutations.20160128"
+"STAD.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","STAD.mutations.20160128"
+"STES.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","STES.mutations.20160128"
+"TGCT.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","TGCT.mutations.20160128"
+"THCA.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","THCA.mutations.20160128"
+"THYM.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","THYM.mutations.20160128"
+"UCEC.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","UCEC.mutations.20160128"
+"UCS.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","UCS.mutations.20160128"
+"UVM.mutations.20160128"," Package provides mutations datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Mutations
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/Mutation+Annotation+Format+(MAF)+Specification. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","UVM.mutations.20160128"
